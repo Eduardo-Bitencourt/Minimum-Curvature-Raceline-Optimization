@@ -5,3 +5,5 @@ Quando falamos sobre carros de corrida e competições em altas velocidades, é 
 
 Com isso, se objetiva obter uma trajetória otimizada a partir do método de mínima curvatura discutido por A. Heilmeier em: https://doi.org/10.1080/00423114.2019.1631455.
 Para contribuir com a meta, foi utilizada a biblioteca criada pelo autor do artigo: trajectory_planning_helpers. Em sua versão 0.66.
+
+Esse código foi desenvolvido pela Ampera Racing, equipe de competição de carros elétricos da Universidade Federal de Santa Catarina.
